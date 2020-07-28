@@ -1,0 +1,17 @@
+1. food = "tacos"
+
+2. is_delicious = true
+
+3. food = "pizza"
+
+4. num2 = 34
+
+5. num7 = 21
+
+6. quotient = num7 / num2
+
+7. songs = ["Lean on Me", "Blackbird", "I'll Follow the Sun"]
+
+9. songs.shift
+
+10. food.length
